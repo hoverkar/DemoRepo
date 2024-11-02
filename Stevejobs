@@ -1,0 +1,31 @@
+graph TD
+    A[Steve Jobs' Life Lessons<br>Stanford Speech 2005]
+
+    A --> B1[1️⃣ Connect the Dots]
+    A --> B2[2️⃣ Love and Loss]
+    A --> B3[3️⃣ Live Each Day]
+
+    B1 --> C1[🎓 Left College &<br>Studied Calligraphy]
+    C1 --> C2[💻 Created Beautiful<br>Typography at Apple]
+    C2 --> C3[💡 Lesson 1:<br>Trust Your Journey -<br>Dots Connect Looking Back]
+
+    B2 --> D1[🔄 Got Fired from Apple<br>at Age 30]
+    D1 --> D2[🚀 Built New Companies:<br>Pixar & NeXT]
+    D2 --> D3[💡 Lesson 2:<br>Setbacks Can Lead to<br>Greatest Successes]
+
+    B3 --> E1[🌟 Life is Precious -<br>Time is Limited]
+    E1 --> E2[❤️ Follow Your Heart<br>& Intuition]
+    E2 --> E3[💡 Lesson 3:<br>Don't Live Someone<br>Else's Life]
+
+    C3 --> F[🎯 Combined Life Lessons:<br>Trust Your Journey<br>Love What You Do<br>Live Your Own Path]
+    D3 --> F
+    E3 --> F
+    
+    F --> H["✨ FINAL MESSAGE ✨<br>Stay Hungry, Stay Foolish<br>Make Your Mark on the World"]
+
+    style A fill:#fff,stroke:#333,stroke-width:2px,color:#333
+    style B1 fill:#f9f9f9,stroke:#333,stroke-width:2px,color:#333
+    style B2 fill:#f9f9f9,stroke:#333,stroke-width:2px,color:#333
+    style B3 fill:#f9f9f9,stroke:#333,stroke-width:2px,color:#333
+    style F fill:#f0f0f0,stroke:#333,stroke-width:2px,color:#333
+    style H fill:#fff,stroke:#333,stroke-width:3px,color:#333,font-weight:bold
